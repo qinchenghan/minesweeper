@@ -1,4 +1,4 @@
-package src.minesweeper;
+package src;
 import javax.swing.JFrame;
 import java.awt.*;
 import java.awt.event.MouseAdapter;

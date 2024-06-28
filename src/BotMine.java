@@ -1,4 +1,4 @@
-package src.minesweeper;
+package src;
 import java.util.*;
 
 public class BotMine {

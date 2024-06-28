@@ -1,4 +1,4 @@
-package src.minesweeper;
+package src;
 import java.awt.*;
 
 public class MapTop {

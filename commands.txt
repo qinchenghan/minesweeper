@@ -1,2 +1,2 @@
-javac src/minesweeper/*.java
-java src.minesweeper.GameWin
+javac src/*.java
+java src.GameWin
