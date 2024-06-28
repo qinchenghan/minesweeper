@@ -1,0 +1,2 @@
+javac src/minesweeper/*.java
+java src.minesweeper.GameWin
